@@ -18,3 +18,7 @@ Single-node Apache Ignite 3 cluster accessed via the Java Thin Client, demonstra
 - Apache Ignite 3.1.0 (Docker)
 - Java 17, Maven
 - \`ignite-client\` Thin Client API
+
+<img width="570" height="736" alt="Screenshot 2026-07-04 at 4 41 06 PM" src="https://github.com/user-attachments/assets/c387d705-adb9-4fca-9d44-18ac8ec7c0eb" />
+
+<img width="495" height="817" alt="Screenshot 2026-07-04 at 4 51 58 PM" src="https://github.com/user-attachments/assets/0887d767-a8a3-4861-909c-f9f4ebec9bdd" />
